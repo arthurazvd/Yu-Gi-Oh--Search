@@ -1,4 +1,14 @@
 # Yu-Gi-Oh! Card Search App
+## Executar App
+Primeiro, você precisará executar o comando flutter pub get para instalar as dependências do projeto:
+
+flutter pub get
+
+Para executar o aplicativo com as configurações adequadas para carregar as imagens corretamente, utilize o seguinte comando:
+
+flutter run -d chrome --web-renderer html
+
+Se estiver utilizando o Visual Studio Code, basta pressionar F5 para iniciar o aplicativo diretamente com essas configurações.
 
 ## Sobre o Projeto
 Este é um aplicativo de busca de cartas do Yu-Gi-Oh! desenvolvido em Flutter. Ele permite que os usuários pesquisem, filtrem e visualizem detalhes das cartas do jogo.
