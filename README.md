@@ -1,7 +1,7 @@
 # Yu-Gi-Oh! Card Search App
 
 ## Sobre o Projeto
-Este é um aplicativo de busca de cartas do Yu-Gi-Oh! desenvolvido em Flutter. Ele permite que os usuários pesquisem, filtrem e visualizem detalhes das cartas do jogo, além de marcar cartas favoritas para fácil acesso posterior. O aplicativo suporta modos claro e escuro, além de múltiplos idiomas (inglês e português).
+Este é um aplicativo de busca de cartas do Yu-Gi-Oh! desenvolvido em Flutter. Ele permite que os usuários pesquisem, filtrem e visualizem detalhes das cartas do jogo.
 
 ## Funcionalidades
 Pesquisa de Cartas: Pesquise por cartas utilizando um campo de pesquisa na AppBar. As cartas são exibidas em uma grade de visualização.
